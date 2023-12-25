@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Interest: Data Science!<br>📚 Student @ UC Berkeley<br>🎯 DS Intern @ Atlassian, Quizlet<br>🎲 View my Website! https://junh0921.github.io/</p>
+<p align="left">✨ Interest: Applications of data science in real life!<br>📚 Student @ UC Berkeley<br>🎯 DS Intern @ Atlassian, Quizlet<br>🎲 View my Website! https://junh0921.github.io/</p>
 
 ###
 
