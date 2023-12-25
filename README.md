@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jun Hwang, and I am an undergraduate student at UC Berkeley studying Data Science.</p>
+<p align="left">My name is Jun Hwang, and I am an undergraduate student studying data science at UC Berkeley.</p>
 
 ###
 
