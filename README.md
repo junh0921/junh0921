@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jun Hwang, and I am an undergraduate student studying data science at UC Berkeley.</p>
+<p align="left">My name is Jun Hwang, and I am a recent graduate from UC Berkeley.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Interest: Applications of data science in real life!<br>📚 Student @ UC Berkeley<br>🎯 DS Intern @ Atlassian, Quizlet<br>🎲 View my Website! https://juns-hwang.github.io/</p>
+<p align="left">✨ Interest: Applications of data science in real life!<br>📚 Recent Graduate @ UC Berkeley<br>🎯 DS Intern @ Atlassian, Quizlet<br>🎲 View my Website! https://juns-hwang.github.io/</p>
 
 ###
 
